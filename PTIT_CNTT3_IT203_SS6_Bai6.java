@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS6_Bai6 {
+public class PTIT_CNTT3_IT203_SS6_Bai6 {
     public static  class Book {
 
         private String title;
@@ -32,3 +32,4 @@ public class PTIT_CNTT2_IT203_SS6_Bai6 {
 
 
 }
+
