@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS6_Bai3 {
+public class PTIT_CNTT3_IT203_SS6_Bai3 {
     public static  class Product{
         private String productID;
         private String productName;
@@ -62,3 +62,4 @@ public class PTIT_CNTT2_IT203_SS6_Bai3 {
 
 
 }
+
