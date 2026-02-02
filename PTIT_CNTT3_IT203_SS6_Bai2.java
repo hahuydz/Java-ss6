@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS6_Bai2 {
+public class PTIT_CNTT3_IT203_SS6_Bai2 {
     public static class Account{
         String username;
         String password;
@@ -32,3 +32,4 @@ public class PTIT_CNTT2_IT203_SS6_Bai2 {
         myAcc.displayProfile();
     }
 }
+
