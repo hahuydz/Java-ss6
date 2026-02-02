@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS6_Bai1 {
+public class PTIT_CNTT3_IT203_SS6_Bai1 {
     public static class Student{
         String id;
         String name;
@@ -30,4 +30,5 @@ public class PTIT_CNTT2_IT203_SS6_Bai1 {
     }
 
 }
+
 
