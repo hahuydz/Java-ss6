@@ -1,4 +1,4 @@
-public class PTIT_CNTT2_IT203_SS6_Bai4 {
+public class PTIT_CNTT3_IT203_SS6_Bai4 {
     public static class Employee {
         private String id;
         private String name;
@@ -46,4 +46,5 @@ public class PTIT_CNTT2_IT203_SS6_Bai4 {
         emp3.displayInfo();
     }
 }
+
 
